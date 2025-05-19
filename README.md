@@ -5,6 +5,7 @@
 This project aims to analyze rehoming patterns of different dog breeds using records from animal shelters that receive stray, abandoned, or neglected dogs. The goal is to understand how rehoming time varies among breeds.
 
 **Dataset Overview** 📊
+
 The analysis uses a subset of a larger dataset containing approximately 670 entries. It includes information on several breeds such as Labrador Retrievers, Greyhounds, and Border Collies. Key variables include the duration it takes for dogs to be rehomed, their health status, age, breed, and reasons for shelter admission. The primary focus of this study is on the “Rehoming Time” and “Breed” attributes. The dataset utilized for this project is referred to as “dataset.”
 
 **Tools Used 👩🏻‍💻**
