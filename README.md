@@ -11,7 +11,7 @@ The analysis uses a subset of a larger dataset containing approximately 670 entr
 
 **Tools Used 👩🏻‍💻**
 
-R programming language
+* R programming language
 
 **Approach and Methodology 🪜**
 
